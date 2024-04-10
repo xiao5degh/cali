@@ -79,7 +79,7 @@ export const zhCN = {
     start: {
       title: '创建您的账户',
       subtitle: '继续使用 {{applicationName}}',
-      actionText: '已经有账户了？',
+      actionText: '已经有账户了',
       actionLink: '登录',
     },
     emailLink: {
@@ -117,7 +117,7 @@ export const zhCN = {
     continue: {
       title: '填写缺少的字段',
       subtitle: '继续使用 {{applicationName}}',
-      actionText: '已经有账户了？',
+      actionText: '已经有账户了',
       actionLink: '登录',
     },
   },
